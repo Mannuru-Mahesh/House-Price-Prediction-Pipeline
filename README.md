@@ -71,7 +71,7 @@ How to Run Locally
 
 1. Clone and set up environment
 
-git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
+git clone https://github.com/Mannuru_Mahesh/house-price-prediction.git
 cd house-price-prediction
 
 Create a virtual environment 
